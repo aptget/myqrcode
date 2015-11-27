@@ -1,2 +1,2 @@
 # MyQrcode
-网址生成二维码的chrome插件
+简单的网址生成二维码 - chrome插件
